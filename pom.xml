@@ -24,7 +24,8 @@
 	
 		<sonar.host.url>http://3.6.88.252:9000/</sonar.host.url>
 		<sonar.login>squ_870fbda27a77b1feac3540ff6d863f6892a2de6c</sonar.login> 
-	<!--    <sonar.login>admin</sonar.login>
+	<!--    
+		<sonar.login>admin</sonar.login>
 		<sonar.password>Pass@1234567</sonar.password> 
 	-->		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
